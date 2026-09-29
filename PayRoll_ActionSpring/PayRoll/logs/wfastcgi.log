@@ -1,0 +1,16 @@
+2026-09-28 13:10:35.781056: wfastcgi.py will restart when files in C:\inetpub\PayRoll_ActionSpring\PayRoll\ are changed: .*((\.py)|(\.config))$
+2026-09-28 13:10:35.806454: wfastcgi.py 3.0.0 initialized
+2026-09-28 13:12:58.251780: wfastcgi.py exiting because web.config has changed, matching .*((\.py)|(\.config))$
+2026-09-28 13:12:58.276215: Running on_exit tasks
+2026-09-28 13:13:41.940237: wfastcgi.py will restart when files in C:\inetpub\PayRoll_ActionSpring\PayRoll\ are changed: .*((\.py)|(\.config))$
+2026-09-28 13:13:41.952078: wfastcgi.py 3.0.0 initialized
+2026-09-28 13:27:11.662131: wfastcgi.py will restart when files in C:\inetpub\PayRoll_ActionSpring\PayRoll\ are changed: .*((\.py)|(\.config))$
+2026-09-28 13:27:11.679338: wfastcgi.py 3.0.0 initialized
+2026-09-28 13:43:15.257623: wfastcgi.py will restart when files in C:\inetpub\PayRoll_ActionSpring\PayRoll\ are changed: .*((\.py)|(\.config))$
+2026-09-28 13:43:15.289733: wfastcgi.py 3.0.0 initialized
+2026-09-29 11:09:04.010001: wfastcgi.py will restart when files in C:\inetpub\PayRoll_ActionSpring\PayRoll\ are changed: .*((\.py)|(\.config))$
+2026-09-29 11:09:04.069632: wfastcgi.py 3.0.0 initialized
+2026-09-29 11:09:05.080126: wfastcgi.py will restart when files in C:\inetpub\PayRoll_ActionSpring\PayRoll\ are changed: .*((\.py)|(\.config))$
+2026-09-29 11:09:05.096773: wfastcgi.py 3.0.0 initialized
+2026-09-29 11:21:43.735641: wfastcgi.py will restart when files in C:\inetpub\PayRoll_ActionSpring\PayRoll\ are changed: .*((\.py)|(\.config))$
+2026-09-29 11:21:43.773403: wfastcgi.py 3.0.0 initialized
